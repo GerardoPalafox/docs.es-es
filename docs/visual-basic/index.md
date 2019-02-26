@@ -29,7 +29,7 @@ Visual Basic está diseñado para crear de manera productiva aplicaciones con se
  Contiene documentación sobre la estructura básica y las convenciones de código de Visual Basic, como convenciones de nomenclatura, comentarios en el código y las limitaciones que Visual Basic presenta.  
   
  [Características del lenguaje Visual Basic](../visual-basic/programming-guide/language-features/index.md)  
- Contiene vínculos a temas en los que se presentan y detallan las características más importantes de Visual Basic, como los literales LINQ y XML.  
+ Proporciona enlaces a temas que presentan y discuten características importantes de Visual Basic, incluyendo literales como LINQ y XML. 
    
  [Referencia de Visual Basic](../visual-basic/reference/index.md)  
  Contiene información del compilador y del lenguaje Visual Basic.  
