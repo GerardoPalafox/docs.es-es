@@ -32,7 +32,7 @@ Para obtener una introducción general a .NET Framework para usuarios y desarrol
 
 ## <a name="installation"></a>Instalación
 
-.NET Framework se integra con Windows, lo que permite ejecutar aplicaciones de .NET Framework. Es posible que necesite una versión de .NET Framework posterior a la que se incluye con su versión de Windows. Para más información, consulte [Instalar .NET Framework en Windows](./install/index.md).
+.NET Framework se integra con Windows, lo que permite ejecutar aplicaciones de .NET Framework. Es posible que necesite una versión posterior de .NET Frameworkque viene con su versión de Windows . Para más información, consulte [Instalar .NET Framework en Windows](./install/index.md).
 
 Vea [Repair the .NET Framework](./install/repair.md) (Reparar .NET Framework) para saber cómo reparar la instalación de .NET Framework si se producen errores al instalar .NET Framework.
 
