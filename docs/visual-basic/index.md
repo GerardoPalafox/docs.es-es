@@ -35,7 +35,7 @@ Visual Basic está diseñado para crear de manera productiva aplicaciones con se
  Contiene información del compilador y del lenguaje Visual Basic.  
 
  [Desarrollo de aplicaciones con Visual Basic](../visual-basic/developing-apps/index.md)  
- Explica distintos aspectos del desarrollo en Visual Basic, como la seguridad, el control de excepciones y el uso de la biblioteca de clases de [!INCLUDE[dnprdnshort](~/includes/dnprdnshort-md.md)].
+ Discute varios aspectos del desarrollo en Visual Basic, como la seguridad, manejo de excepciones y uso de la biblioteca de clases de  [!INCLUDE[dnprdnshort](~/includes/dnprdnshort-md.md)].
 
  [Interoperabilidad COM](../visual-basic/programming-guide/com-interop/index.md)  
  Se explican los problemas de interoperabilidad relacionados con la creación y uso de objetos del Modelo de objetos componentes (COM) con Visual Basic.  
