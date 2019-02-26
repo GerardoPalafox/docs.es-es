@@ -14,11 +14,11 @@ En esta guía de .NET encontrará mucha información sobre .NET.  Dependiendo de
 
 ## <a name="new-to-net"></a>Nuevo a .NET
 
-Si quiere información general sobre .NET, visite [¿Qué es .NET?](https://www.microsoft.com/net/learn/what-is-dotnet).
+Visite, Si solicita información general sobre .NET [¿Qué es .NET?](https://www.microsoft.com/net/learn/what-is-dotnet).
 
-Si no está familiarizado con .NET, consulte el artículo [Introducción](get-started.md).
+Consulte el articulo, Si no está familiarizado con .NET [Introducción](get-started.md).
 
-Si prefiere una guía paso a paso sobre las características principales de .NET, consulte [Paseo por .NET](tour.md).
+Consulte , Si prefiere una guía paso a paso sobre las características principales de .NET  [Paseo por .NET](tour.md).
 
 También puede consultar [Componentes de la arquitectura .NET](components.md) para obtener información general sobre los diferentes componentes de .NET y su funcionamiento conjunto.
 
