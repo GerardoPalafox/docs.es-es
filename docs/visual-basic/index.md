@@ -17,7 +17,7 @@ Visual Basic está diseñado para crear de manera productiva aplicaciones con se
   
  Esta generación de Visual Basic sigue ofreciendo una manera rápida y sencilla de crear aplicaciones basadas en .NET Framework.  
   
- Si no dispone de Visual Basic, en el sitio de [Visual Studio](https://aka.ms/vsdownload?utm_source=mscom&utm_campaign=msdocs) puede adquirir una versión de Visual Studio que incluye Visual Basic de forma gratuita.  
+ Si aún no tiene  Visual Basic, puede adquirir una versión de  [Visual Studio](https://aka.ms/vsdownload?utm_source=mscom&utm_campaign=msdocs)  que incluye Visual Basic de forma gratuita desde el sitio de visual studio.  
   
 ## <a name="in-this-section"></a>En esta sección  
  [Introducción](../visual-basic/getting-started/index.md)  
